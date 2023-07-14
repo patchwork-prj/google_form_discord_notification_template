@@ -4,14 +4,14 @@
   "version": "1.0.0",
   "author": "tainakanchu <tainakanchu815@gmail.com>",
   "main": "src/index.ts",
+  "homepage": "https://github.com/patchwork-prj/google_form_discord_notification_template",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tainakanchu/google_form_notification_template.git"
+    "url": "https://github.com/patchwork-prj/google_form_discord_notification_template.git"
   },
   "bugs": {
-    "url": "https://github.com/tainakanchu/google_form_notification_template/issues"
+    "url": "https://github.com/patchwork-prj/google_form_discord_notification_template/issues"
   },
-  "homepage": "",
   "keywords": [
     "discord",
     "google apps script",
