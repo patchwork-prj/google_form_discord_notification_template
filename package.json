@@ -1,0 +1,27 @@
+{
+  "name": "google_form_discord_notification_template",
+  "description": "The template to notify google form response to discord channel.",
+  "version": "1.0.0",
+  "author": "tainakanchu <tainakanchu815@gmail.com>",
+  "main": "src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tainakanchu/google_form_notification_template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tainakanchu/google_form_notification_template/issues"
+  },
+  "homepage": "",
+  "keywords": [
+    "discord",
+    "google apps script",
+    "google form",
+    "notification"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.65",
+    "discord-webhook-ts": "3.0.3"
+  }
+}
